@@ -41,14 +41,17 @@ MBA-BA-CA1-Swiggy-Analysis/
 
 ## Dataset
 
-The Set B assessment uses these four entities:
+The supplied workbook, `CA1 Swiggy Synthetic Dataset.xlsx`, contains five worksheets:
 
-- Customers
-- Restaurants
-- Delivery Partners
-- Orders
+| Worksheet | Rows | Columns |
+|---|---:|---:|
+| Read_Me | 5 | 2 |
+| CA1B_Customers | 260 | 5 |
+| CA1B_Restaurants | 70 | 5 |
+| CA1B_Partners | 100 | 4 |
+| CA1B_Orders | 900 | 12 |
 
-Only the assigned Set B data should be used. The dataset is synthetic and created for educational purposes.
+The four data tables are Customers, Restaurants, Delivery Partners and Orders. Only the assigned Set B data should be used. The dataset is synthetic and created for educational purposes. The workbook itself still needs to be added to the repository.
 
 ## How to Use
 
